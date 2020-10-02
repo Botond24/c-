@@ -8,6 +8,7 @@ namespace Replytype
         {
             Console.Write("Enter your name: ");
             var name = Console.ReadLine();
+            Console.WriteLine(name.GetType());
         }
     }
 }

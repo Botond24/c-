@@ -1,6 +1,6 @@
 using System;
 
-namespace c_4
+namespace readkey
 {
     class readkey
     {
