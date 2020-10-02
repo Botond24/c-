@@ -1,0 +1,13 @@
+D:\Documents\GitHub\c#\readkey\bin\Debug\netcoreapp3.1\readkey.exe
+D:\Documents\GitHub\c#\readkey\bin\Debug\netcoreapp3.1\readkey.deps.json
+D:\Documents\GitHub\c#\readkey\bin\Debug\netcoreapp3.1\readkey.runtimeconfig.json
+D:\Documents\GitHub\c#\readkey\bin\Debug\netcoreapp3.1\readkey.runtimeconfig.dev.json
+D:\Documents\GitHub\c#\readkey\bin\Debug\netcoreapp3.1\readkey.dll
+D:\Documents\GitHub\c#\readkey\bin\Debug\netcoreapp3.1\readkey.pdb
+D:\Documents\GitHub\c#\readkey\obj\Debug\netcoreapp3.1\readkey.csprojAssemblyReference.cache
+D:\Documents\GitHub\c#\readkey\obj\Debug\netcoreapp3.1\readkey.AssemblyInfoInputs.cache
+D:\Documents\GitHub\c#\readkey\obj\Debug\netcoreapp3.1\readkey.AssemblyInfo.cs
+D:\Documents\GitHub\c#\readkey\obj\Debug\netcoreapp3.1\readkey.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\c#\readkey\obj\Debug\netcoreapp3.1\readkey.dll
+D:\Documents\GitHub\c#\readkey\obj\Debug\netcoreapp3.1\readkey.pdb
+D:\Documents\GitHub\c#\readkey\obj\Debug\netcoreapp3.1\readkey.genruntimeconfig.cache

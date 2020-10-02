@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2ptVT0/rQNc/QHewIiUkNVp3+OHkIg1YZpo6L/ajNzaBvbbhtUpNmeQIVG0U8Q6ldVTGBDfDcnKAXThN+AZwMA==",
+  "success": true,
+  "projectFilePath": "D:\\Documents\\GitHub\\c#\\reply\\reply.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sziha\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

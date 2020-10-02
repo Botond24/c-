@@ -1,0 +1,13 @@
+D:\Documents\GitHub\c#\reply\bin\Debug\netcoreapp3.1\reply.exe
+D:\Documents\GitHub\c#\reply\bin\Debug\netcoreapp3.1\reply.deps.json
+D:\Documents\GitHub\c#\reply\bin\Debug\netcoreapp3.1\reply.runtimeconfig.json
+D:\Documents\GitHub\c#\reply\bin\Debug\netcoreapp3.1\reply.runtimeconfig.dev.json
+D:\Documents\GitHub\c#\reply\bin\Debug\netcoreapp3.1\reply.dll
+D:\Documents\GitHub\c#\reply\bin\Debug\netcoreapp3.1\reply.pdb
+D:\Documents\GitHub\c#\reply\obj\Debug\netcoreapp3.1\reply.csprojAssemblyReference.cache
+D:\Documents\GitHub\c#\reply\obj\Debug\netcoreapp3.1\reply.AssemblyInfoInputs.cache
+D:\Documents\GitHub\c#\reply\obj\Debug\netcoreapp3.1\reply.AssemblyInfo.cs
+D:\Documents\GitHub\c#\reply\obj\Debug\netcoreapp3.1\reply.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\c#\reply\obj\Debug\netcoreapp3.1\reply.dll
+D:\Documents\GitHub\c#\reply\obj\Debug\netcoreapp3.1\reply.pdb
+D:\Documents\GitHub\c#\reply\obj\Debug\netcoreapp3.1\reply.genruntimeconfig.cache
