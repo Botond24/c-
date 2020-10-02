@@ -8,7 +8,6 @@ namespace program
         {
             Console.Write("hello ");
             Console.WriteLine("world!");
-
         }
     }
 }
